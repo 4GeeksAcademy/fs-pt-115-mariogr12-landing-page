@@ -15,7 +15,7 @@ const Home = () => {
 
 			<Jumbotron />
 
-			<div className="row mx-3 mb-3">
+			<div className="row g-3 mx-2 mb-3">
 				<MiCard
 					image={defaultCardImage}
 					title="Título"
