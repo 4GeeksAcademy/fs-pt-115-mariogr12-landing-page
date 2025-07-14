@@ -1,6 +1,6 @@
 export const Jumbotron = () => {
     return (
-        <div className="container p-0">
+        <div className="container">
             <div className="p-4 mb-3 rounded-3" style={{ backgroundColor: "#cccccc" }}>
                 <div className="py-5">
                     <h1 className="display-5 fw-bold">Jumbotron personalizado</h1>

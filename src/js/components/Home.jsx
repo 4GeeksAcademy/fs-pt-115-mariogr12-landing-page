@@ -15,7 +15,7 @@ const Home = () => {
 
 			<Jumbotron />
 
-			<div className="container p-0">
+			<div className="container">
 
 				<div className="row mb-3 justify-content-between">
 					<MiCard
